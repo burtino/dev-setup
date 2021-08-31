@@ -49,9 +49,13 @@ echo "source $(brew --prefix)/opt/powerlevel10k/powerlevel10k.zsh-theme" >>~/.zs
 
 ## QuickLook Plugins
 
-Quicklook plugins previews in Finder.
+Quicklook plugins previews in Finder. 
 
 `brew install qlcolorcode qlmarkdown quicklook-json qlprettypatch quicklook-csv qlimagesize webpquicklook quicklookase qlvideo`
+
+**These are causing a security warning in Big Sur so currently skipping**
+
+`qlcolorcode qlimagesize`
 
 ## install wget, curl, tree, httpie
 
@@ -60,9 +64,4 @@ Quicklook plugins previews in Finder.
 ## Visual Studio Code
 
 `brew install visual-studio-code`
-
-
-
-
-
 
