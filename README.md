@@ -1,8 +1,8 @@
 # dev-setup
 development setup notes
 
-I'm still torn on zsh because most of the scripting I will do will be for bash but i guess that is what containers and tests are for. 
-I capitulate now that zshell is the shell Mac OS has chosen.
+I capitulate now that zshell is the shell Mac OS has chosen. 
+Be aware that some bash is not zsh and you should test all bash scripts against intended targets and not just "worked on my mac". 
 
 ## Homebrew
 
