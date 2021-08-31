@@ -1,7 +1,7 @@
 # dev-setup
 development setup notes
 
-I capitulate now that zshell is the shell Mac OS has chosen. 
+Mac has chosen zsh for default shell.
 Be aware that some bash is not zsh and you should test all bash scripts against intended targets and not just "worked on my mac". 
 
 ## Homebrew
